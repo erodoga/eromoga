@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ホーム</title>
+</head>
+<body style="background:#111; color:#eee; text-align:center; font-family:sans-serif; padding:2rem;">
+  <h1>大人向け動画サイト</h1>
+  <p>
+    <a href="ero1.html" style="color:#ff5555; text-decoration:none; font-size:1.5rem;">
+      ▶ ero1.html へ
+    </a>
+  </p>
+</body>
+</html>
